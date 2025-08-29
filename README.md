@@ -1,5 +1,6 @@
 使い方 リリース or ソースコードのpatchedフォルダにあるcrackloader.jarをmodsファイルにコピーします
 Click gui bind: Y
+ビルド可能なソースコードを作ってくれました、ありがとう [@ManiaLiteDeveloper ](https://github.com/ManiaLiteDeveloper)
 
 Usage: Copy crackloader.jar from the release or source code patched folder into the mods folder.
 Click gui bind: Y
