@@ -11,9 +11,6 @@
 ### 🙏 クレジット
 ビルド可能なソースコードを作ってくれました、ありがとう [@ManiaLiteDeveloper](https://github.com/ManiaLiteDeveloper)
 
-### 📷 スクリーンショット
-<img width="904" height="314" alt="screenshot" src="https://github.com/user-attachments/assets/113ef265-32d4-439c-8f91-8d9531f87376" />
-
 ---
 
 ## 🇺🇸 English
@@ -25,5 +22,5 @@
 ### 🙏 Credits
 Thank you for providing buildable source code. [@ManiaLiteDeveloper](https://github.com/ManiaLiteDeveloper)
 
-### 📷 Screenshot
+
 <img width="904" height="314" alt="screenshot" src="https://github.com/user-attachments/assets/113ef265-32d4-439c-8f91-8d9531f87376" />
