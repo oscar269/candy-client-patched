@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "as.pw.candee.mixin.mixins",
+  "refmap": "mixins.candeeplusrewrite.refmap.json",
+  "mixins": [
+    "MixinEntity",
+    "MixinEntityLivingBase",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinLoginStart",
+    "MixinMinecraft",
+    "MixinNetHandlerPlayClient",
+    "MixinNetWork",
+    "MixinNetworkRegistry",
+    "MixinPlayerControllerMP",
+    "MixinRenderEnderCrystal",
+    "MixinRenderPlayer"
+  ],
+  "client": [
+    "MixinRenderItem"
+  ]
+}
