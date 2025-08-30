@@ -29,6 +29,5 @@ Thank you for providing buildable source code. [@ManiaLiteDeveloper](https://git
 
 The developer announced the end of development and released the [source code](https://github.com/hypinohaizin/CandyPlusRewrite-OpenSource).
 
-https://github.com/hypinohaizin/CandyPlusRewrite-OpenSource
 
 <img width="904" height="314" alt="screenshot" src="https://github.com/user-attachments/assets/113ef265-32d4-439c-8f91-8d9531f87376" />
